@@ -51,7 +51,7 @@ function App() {
 
          <TextForm showAlert={showAlert} heading="Enter Your Queries"mode={mode}/>
           {/* </Route>
-        </Routes> */} */}
+        </Routes> */} 
 
 
 </div>
